@@ -11,6 +11,9 @@ img {
   border: 1px solid rgba(000,000,000,0.2);
   padding: 10px;
   max-width: 650px;
+  border-top-right-radius: 3px;
+  border-bottom-left-radius: 3px;
+  border-bottom-right-radius: 3px;
 }
 
 .post > h2 {
@@ -19,3 +22,17 @@ img {
 }
 
 /* Your Code Goes Under This Line */
+.full {
+  height: 100px;
+  width: 100px;
+  border-radius: 50px;
+  background-color: black;
+}
+
+.outline {
+  height: 100px;
+  width: 100px;
+  border-radius: 60px;
+  border: 5px solid black;
+  background-color: white;
+}
