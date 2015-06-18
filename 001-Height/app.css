@@ -9,3 +9,26 @@ img {
 }
 
 /* Code Under This Line */
+.short {
+  height: 100px;
+}
+
+.tall {
+  height: 200px;
+}
+
+.outside {
+  height: 100px;
+}
+
+.inside {
+  height: 100%;
+}
+
+.giant {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  background-color: inherit;
+  color: blue;
+}
