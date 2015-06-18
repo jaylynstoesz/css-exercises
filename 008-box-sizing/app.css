@@ -20,7 +20,8 @@ div {
 
 .column {
   float: left;
-  width: 25%;
+  width: 19.25%;
+  background-color: blue;
 }
 
 /* Your Code Goes Under This Line */
